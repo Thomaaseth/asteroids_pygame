@@ -17,7 +17,7 @@ A simple space shooter game with Python and Pygame.
 ## How to run the game
 
 1. Clone this repo to your local machine:
-git clone https://github.com/github-username/repo-name.git
+git clone [https://github.com/github-username/repo-name.git](https://github.com/Thomaaseth/asteroids_pygame.git)
 
 2. Navigate to the project directory: 
 cd repo-name
